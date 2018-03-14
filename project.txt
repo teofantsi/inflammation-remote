@@ -1,3 +1,4 @@
 Some initial data analysis to identify how inflammation changes over time after surgery.
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine who is responsible for what in this project.
+We may need to bring a third person with Python programming skills into the project.
 
