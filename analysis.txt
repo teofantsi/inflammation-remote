@@ -1,1 +1,2 @@
 We need data about patients, wards, dates, temperatures and inflammation size
+We also need to decide exactly how we will analyse the data
